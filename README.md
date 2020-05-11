@@ -5,7 +5,7 @@ ShaderGraphで遊ぶ
 
 ## Required
 
-- Unity2019.3.0f6
+- Unity2019.3.13f1
 - Universal RP
 
 ## 作ったもの
