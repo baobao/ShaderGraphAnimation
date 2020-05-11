@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Template
+  m_Name: 3
   m_Shader: {fileID: -6465566751694194690, guid: f0f12b53cdc34481eb254b94619e659f,
     type: 3}
   m_ShaderKeywords: 
